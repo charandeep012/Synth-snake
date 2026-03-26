@@ -1,0 +1,5 @@
+{
+  "name": "SynthSnake",
+  "description": "A dark neon aesthetic React web app combining a Music Player and a Snake Game.",
+  "requestFramePermissions": []
+}
