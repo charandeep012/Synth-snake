@@ -7,6 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/db292c03-6e07-4460-abc5-ae37474f3695
+Host URL:https://synthsnake-945790845086.us-west1.run.app/
 
 ## Run Locally
 
